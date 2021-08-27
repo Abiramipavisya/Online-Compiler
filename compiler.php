@@ -38,7 +38,7 @@
     </div>
     <div class="collapse navbar-collapse navbar-menubuilder">
     <ul class="nav navbar-nav">
-      <li class="space"><a href="compiler.php"><i class="fa fa-code ispace"></i>Compilers</a></li>
+      <li class="space"><a href="compiler.php"><i class="fa fa-code ispace"></i>Compiler</a></li>
       <li class="space"><a href="archive.php"><i class="fa fa-archive ispace"></i>Problem Archive</a></li>
       <li class="space"><a href="contest.php"><i class="fa fa-cogs ispace"></i>Contests</a></li>
       <li class="space"><a href="#"><i class="fa fa-check-square ispace"></i>Debug</a></li>
