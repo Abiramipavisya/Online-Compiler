@@ -107,12 +107,12 @@
 					include("compilers/java.php");
 					break;
 				}
-				case "python2.7":
+				case "python27":
 				{
 					include("compilers/python27.php");
 					break;
 				}
-				case "python3.2":
+				case "python32":
 				{
 					include("compilers/python32.php");
 					break;
