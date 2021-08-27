@@ -15,8 +15,8 @@
         <link rel="stylesheet" href="css/style.css">
         <script src="js/vendor/modernizr-2.8.3.min.js"></script>
         <script src="js/vendor/jquery-1.12.0.min.js"></script>
-        <script src="bootstrap-3.3.7/js/bootstrap.min.js" </script>
-        <script src="bootstrap-3.3.7/js/bootstrap.js" </script>
+        <script src="bootstrap-3.3.7/js/bootstrap.min.js"></script>
+        <script src="bootstrap-3.3.7/js/bootstrap.js"></script>
 
 
 
@@ -32,7 +32,7 @@
   <div class="col-sm-12">
   <nav class="shadow navbar navbar-inverse navbar-fixed-top nbar">
     <div class="navbar-header">
-      <a class="navbar-brand lspace" href="index.php">RUET OJ</a>
+      <a class="navbar-brand lspace" href="index.php">ProHub</a>
        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-menubuilder"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
             </button>
     </div>
@@ -78,8 +78,8 @@
 <select class="form-control" name="language">
 <option value="c">C</option>
 <option value="cpp">C++</option>
-<option value="cpp11">C++11</option>
 <option value="java">Java</option>
+
 
 	
 
