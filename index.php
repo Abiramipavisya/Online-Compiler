@@ -35,7 +35,7 @@
   <div class="col-sm-12">
   <nav class="shadow navbar navbar-inverse navbar-fixed-top nbar">
     <div class="navbar-header">
-      <a class="navbar-brand lspace" href="index.php">RUET OJ</a>
+      <a class="navbar-brand lspace" href="index.php">ProHub</a>
        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-menubuilder"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
             </button>
     </div>
@@ -57,7 +57,7 @@
 <div class="row log">
 <div class="col-sm-10">
 <!--<center><div class="alert alert-success"><a href="https://github.com/shawon100/RUET-OJ">RUET OJ</a> is temporary unavailable for server problem. We will be back</div></center><br>-->
-<div class=""><h3 style="text-align:center;">Online Compiler</h3></div>
+<div class=""><h3 style="text-align:center;">Online compilers</h3></div>
 </div>
 
 <div class="col-sm-1">
