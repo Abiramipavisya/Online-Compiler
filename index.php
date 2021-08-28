@@ -123,7 +123,7 @@
 <div class="fm">
 
 <b>Beta Version-2016</b><br>
-<b>Developed By <a href="https://fb.com/ashadullah.shawon">Ashadullah Shawon</a></b>
+<b>Developed  <a href="https://fb.com/ashadullah.shawon"></a></b>
 
 </div>
 </div>
